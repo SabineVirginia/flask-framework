@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\selmig\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "jupyter.jupyterServerType": "local"
 }
